@@ -1,0 +1,26 @@
+技能名称，作者，技能描述，下载数量，点赞数量
+self-improving-agent,@pskoett,Self-improving agent skill for OpenClaw,0,0
+tavily-search,@arun-8687,Tavily AI-optimized web search integration,0,0
+gog,@steipete,Game integration skill,0,0
+find-skills,@JimLiuxinghai,Help users discover and install agent skills,0,0
+summarize,@steipete,Summarize URLs or files with CLI,0,0
+github,@steipete,Interact with GitHub using gh CLI,0,0
+agent-browser,@TheSethRose,Rust-based headless browser automation CLI,0,0
+weather,@steipete,Get current weather and forecasts,0,0
+proactive-agent,@halthelobster,Proactive agent with heartbeat support,0,0
+sonoscli,@steipete,Sonos speaker control skill,0,0
+notion,@steipete,Notion API for pages and databases,0,0
+nano-pdf,@steipete,PDF processing and summarization,0,0
+nano-banana-pro,@steipete,Advanced AI image generation,0,0
+tencentcloud-lighthouse,@TencentCloud,Manage Tencent Cloud Lighthouse servers,0,0
+healthcheck,@OpenClaw,Host security hardening and risk-tolerance config,0,0
+skill-creator,@OpenClaw,Create or update AgentSkills,0,0
+obsidian,@OpenClaw,Work with Obsidian vaults and automate via CLI,0,0
+tavily,@OpenClaw,AI-optimized web search via Tavily API,0,0
+qqbot-cron,@QQBot,QQ Bot smart reminder with cron support,0,0
+qqbot-media,@QQBot,QQ Bot media sending with img tags,0,0
+feishu-doc,@Feishu,Feishu document read/write operations,0,0
+feishu-drive,@Feishu,Feishu cloud storage file management,0,0
+feishu-perm,@Feishu,Feishu permission management,0,0
+feishu-wiki,@Feishu,Feishu knowledge base navigation,0,0
+clawhub,@OpenClaw,Search install update publish skills from clawhub.com,0,0
