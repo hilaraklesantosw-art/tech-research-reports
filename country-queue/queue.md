@@ -1,6 +1,6 @@
 # 国家游记写作队列
 
-## 已完成 (8/195)
+## 已完成 (9/195)
 - [x] 日本 - japan.md
 - [x] 法国 - france.md  
 - [x] 以色列 - israel.md
@@ -9,6 +9,7 @@
 - [x] 巴基斯坦 - pakistan.md
 - [x] 尼泊尔 - nepal.md
 - [x] 不丹 - bhutan.md
+- [x] 卡塔尔 - qatar.md
 
 ## 待写作 (192)
 
@@ -28,10 +29,10 @@
 - [x] 不丹 - bhutan.md
 - [x] 阿富汗 - afghanistan.md
 - [x] 伊朗 - iran.md
-12. 伊拉克
+- [x] 伊拉克 - iraq.md
 13. 沙特阿拉伯
-14. 科威特
-15. 巴林
+- [x] 科威特 - kuwait.md
+- [x] 巴林 - bahrain.md
 16. 卡塔尔
 17. 阿联酋
 18. 阿曼
