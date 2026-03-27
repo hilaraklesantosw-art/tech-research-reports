@@ -1,8 +1,8 @@
 # 公司分析日报 (Daily Company Analysis Summary)
 
 **报告日期：** 2026 年 3 月 28 日  
-**生成时间：** 5:07 AM (Asia/Shanghai)  
-**最后检查：** 5:07 AM (Asia/Shanghai) - 定时任务执行  
+**生成时间：** 5:47 AM (Asia/Shanghai)  
+**最后检查：** 5:47 AM (Asia/Shanghai) - 定时任务执行  
 **报告类型：** 自动晨间检查
 
 ---
